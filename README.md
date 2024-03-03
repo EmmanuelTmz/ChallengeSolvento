@@ -1,8 +1,10 @@
 # ChallengeSolvento
 Challenge Tech Support Analyst
 Captura de pantalla del Script ejecutado para esta prueba
-![Screenshot_3](https://github.com/EmmanuelTmz/ChallengeSolvento/assets/78710561/0cd08932-ad32-4c63-8fff-a1596dadf70e)
+
+![Screenshot_3](https://github.com/EmmanuelTmz/ChallengeSolvento/assets/78710561/e056aec8-4303-46be-b12b-8eff7828732a)
 
 
 Captura de pantalla de funcioanmiento del Script
-![Screenshot_4](https://github.com/EmmanuelTmz/ChallengeSolvento/assets/78710561/d0414daa-c701-4b17-a46d-f6d8246e14ed)
+
+![Screenshot_4](https://github.com/EmmanuelTmz/ChallengeSolvento/assets/78710561/2e380914-6e2c-4102-9de3-3cca5dfaec45)
